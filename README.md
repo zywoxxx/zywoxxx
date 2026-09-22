@@ -2,7 +2,7 @@
      README de perfil · zywoxxx
      Sube este archivo como README.md en el repositorio llamado "zywoxxx"
      (Repositorio con el mismo nombre que tu usuario → GitHub lo muestra en tu perfil)
-     Sube también squid.png a la raíz del mismo repositorio (el arte ASCII de la derecha)
+     El arte ASCII de la derecha es el archivo download.png, en la raíz del mismo repositorio
      Paleta: fondo #1c1230 · borde #5b3a8a · título #ec6fd5 · texto #c9b6ff · iconos #a86bff
      ═══════════════════════════════════════════════════════════════════ -->
 
@@ -11,13 +11,13 @@
 <br/>
 
 <div align="center">
-  <sub>oxxymAAle</sub>
+  <sub>オキシマーレ</sub>
   <br/><br/>
   <a href="https://github.com/zywoxxx">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=EC6FD5&center=true&vCenter=true&width=700&height=60&lines=Hello!+My+name+is+zywoxxx;I+am+a+Software+Student;Always+learning+something+new" alt="Hello! My name is zywoxxx · I am a Software Student"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=EC6FD5&center=true&vCenter=true&width=700&height=60&lines=Hello!+My+name+is+zywoxxx;I+am+a+Software+Engineer;Always+learning+something+new" alt="Hello! My name is zywoxxx · I am a Software Engineer"/>
   </a>
   <p>
-    🎓 <b>Software Student</b>&nbsp;&nbsp;·&nbsp;&nbsp;💻 Learning to build things with code, one commit at a time&nbsp;&nbsp;·&nbsp;&nbsp;📍 México
+    👨‍💻 <b>Software Engineer</b>&nbsp;&nbsp;·&nbsp;&nbsp;🚀 Building things with code, one commit at a time&nbsp;&nbsp;·&nbsp;&nbsp;📍 México
   </p>
 </div>
 
@@ -25,13 +25,15 @@
 
 <!-- ─── Fila 1: Stats · Lenguajes · Commits por hora ─── -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zywoxxx&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=1c1230&title_color=ec6fd5&text_color=c9b6ff&icon_color=a86bff&border_color=5b3a8a&border_radius=8" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zywoxxx&layout=donut&langs_count=6&custom_title=Top%20Languages%20by%20Repo&bg_color=1c1230&title_color=ec6fd5&text_color=c9b6ff&border_color=5b3a8a&border_radius=8" alt="Top languages"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zywoxxx&theme=radical" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zywoxxx&theme=radical" alt="Top languages by repo"/>
   <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zywoxxx&theme=radical&utcOffset=-6" alt="Commits per hour"/>
   <!--
-  Nota: estas tarjetas dependen de servidores públicos gratuitos que a veces se saturan ("rate limited").
-  Si alguna deja de cargar, cambia el dominio de las dos primeras por el oficial
-  https://github-readme-stats.vercel.app (mismos parámetros) o por otra copia pública de github-readme-stats.
+  Nota: estas tarjetas dependen de servidores públicos gratuitos que a veces se saturan ("rate limited")
+  y se recuperan solos en unos minutos. Si prefieres el estilo de github-readme-stats, estas son las URLs
+  (sus servidores públicos hoy muestran "Maximum retries exceeded", por eso no están activas):
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zywoxxx&show_icons=true&rank_icon=github&include_all_commits=true&bg_color=1c1230&title_color=ec6fd5&text_color=c9b6ff&icon_color=a86bff&border_color=5b3a8a&border_radius=8" alt="GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zywoxxx&layout=donut&langs_count=6&custom_title=Top%20Languages%20by%20Repo&bg_color=1c1230&title_color=ec6fd5&text_color=c9b6ff&border_color=5b3a8a&border_radius=8" alt="Top languages"/>
   -->
 </div>
 
@@ -43,8 +45,8 @@
 
 <br/>
 
-<!-- ─── Arte ASCII (archivo squid.png en la raíz del repositorio) ─── -->
-<img align="right" src="squid.png" width="230" alt="ASCII art squid"/>
+<!-- ─── Arte ASCII (archivo download.png en la raíz del repositorio) ─── -->
+<img align="right" src="download.png" width="230" alt="ASCII art squid"/>
 
 <!-- ─── Contacto ─── -->
 <div align="center">
