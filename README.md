@@ -40,45 +40,35 @@
 <!-- ─── Fila 2: Contribuciones del último año · Racha ─── -->
 <div align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zywoxxx&theme=radical" alt="Profile details and contributions in the last year"/>
-  <img height="180" src="https://streak-stats.demolab.com?user=zywoxxx&background=1c1230&border=5b3a8a&stroke=5b3a8a&ring=ec6fd5&fire=ec6fd5&currStreakNum=c9b6ff&sideNums=ec6fd5&currStreakLabel=ec6fd5&sideLabels=c9b6ff&dates=c9b6ff&border_radius=8" alt="GitHub streak"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=zywoxxx&background=1c1230&border=5b3a8a&stroke=5b3a8a&ring=ec6fd5&fire=ec6fd5&currStreakNum=c9b6ff&sideNums=ec6fd5&currStreakLabel=ec6fd5&sideLabels=c9b6ff&dates=c9b6ff&border_radius=8&hide_border=false" alt="GitHub streak"/>
 </div>
 
 <br/>
 
-<!-- ─── Arte ASCII (archivo download.png en la raíz del repositorio) ─── -->
-<img align="right" src="download.png" width="230" alt="ASCII art squid"/>
+<!-- ─── Arte ASCII a la derecha (archivo download.png en la raíz del repositorio) ─── -->
+<img align="right" src="download.png" width="33%" alt="ASCII art squid"/>
 
-<!-- ─── Contacto ─── -->
+<!-- ─── Columna izquierda: contacto · tecnologías · visitas ─── -->
 <div align="center">
   <a href="mailto:oxzym27.4@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1c1230?style=for-the-badge&logo=gmail&logoColor=ec6fd5" alt="Gmail"/>
   </a>
   <!--
-  Para agregar más redes, copia una de estas líneas dentro del <div> y pon tu URL:
+  Para agregar más redes, copia una de estas líneas justo debajo del botón de Gmail y pon tu URL:
   <a href="https://www.linkedin.com/in/TU_USUARIO/"><img src="https://img.shields.io/badge/LinkedIn-1c1230?style=for-the-badge&logo=linkedin&logoColor=ec6fd5" alt="LinkedIn"/></a>
   <a href="https://www.instagram.com/TU_USUARIO/"><img src="https://img.shields.io/badge/Instagram-1c1230?style=for-the-badge&logo=instagram&logoColor=ec6fd5" alt="Instagram"/></a>
   <a href="https://discord.com/users/TU_ID"><img src="https://img.shields.io/badge/Discord-1c1230?style=for-the-badge&logo=discord&logoColor=ec6fd5" alt="Discord"/></a>
   <a href="https://wa.me/52XXXXXXXXXX"><img src="https://img.shields.io/badge/WhatsApp-1c1230?style=for-the-badge&logo=whatsapp&logoColor=ec6fd5" alt="WhatsApp"/></a>
   <a href="https://x.com/TU_USUARIO"><img src="https://img.shields.io/badge/X-1c1230?style=for-the-badge&logo=x&logoColor=ec6fd5" alt="X"/></a>
   -->
-</div>
-
-<br/>
-
-<!-- ─── Tecnologías (edita la lista "i=" · nombres válidos en https://skillicons.dev) ─── -->
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,js,ts,html,css,react&perline=11&theme=dark" alt="Tech stack (languages)"/>
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,androidstudio,tensorflow,mysql,postgres,mongodb,git,github,linux,bash,vscode&perline=11&theme=dark" alt="Tech stack (tools)"/>
-</div>
-
-<br/>
-
-<!-- ─── Contador de visitas ─── -->
-<div align="center">
+  <br/><br/>
+  <!-- Tecnologías: cuadrícula de 6 por fila para que quepa junto al calamar (edita la lista "i=" · nombres en https://skillicons.dev)
+       Los anchos en % hacen que calamar e iconos se ajusten juntos a cualquier tamaño de pantalla -->
+  <img width="50%" src="https://skillicons.dev/icons?i=c,cpp,cs,java,kotlin,python,js,ts,html,css,react,nodejs,androidstudio,tensorflow,mysql,postgres,mongodb,git,github,linux,bash,vscode,arduino,figma&perline=6&theme=dark" alt="Tech stack"/>
+  <br/><br/>
   <sub>✦ visits ✦</sub>
   <br/>
-  <img src="https://count.getloli.com/@zywoxxx?name=zywoxxx&theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt="visit counter"/>
+  <img width="45%" src="https://count.getloli.com/@zywoxxx?name=zywoxxx&theme=minecraft&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt="visit counter"/>
 </div>
 
 <br clear="both"/>
